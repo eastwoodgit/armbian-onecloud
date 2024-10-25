@@ -1,4 +1,4 @@
-# 最新GitHub ci编译的发型版本
+# 最新GitHub ci编译的发行版本
 # armbian-onecloud
 
 [README](README.md) | [中文文档](README_zh.md)
