@@ -130,7 +130,7 @@ jobs:
       matrix:
         BRANCH:
           - edge
-          - current
+          # - current
 
     steps:
       - name: Import env
